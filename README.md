@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewLutsky
 - 👀 I’m interested in Bioinformatics and Computational Biology
-- 🌱 I’m currently learning Namd simulations and diffusion coefficients of solutes in relation to proteins
+- 🌱 I’m currently learning Computational Biology
 - 📫 You can reach me at alutsky2@illinois.edu
 
 <!---
