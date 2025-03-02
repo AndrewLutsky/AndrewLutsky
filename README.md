@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndrewLutsky
 - 👀 I’m interested in Bioinformatics and Computational Biology
-- 🌱 I’m currently learning Bioinformatics at CMU
-- 📫 You can reach me at alutsky@andrew.cmu.edu
+- 🌱 I’m currently a Bioinformatics Software Engineer
+- 📫 You can reach me at andrew.lutsky19@gmail.com
 
 <!---
 AndrewLutsky/AndrewLutsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
